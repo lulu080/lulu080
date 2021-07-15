@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @lulu080
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning bootstrap and JavaScript 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me @susannwagwu4@gmail.com
 
 <!---
 lulu080/lulu080 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
