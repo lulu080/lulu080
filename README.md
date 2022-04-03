@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lulu080
 - 👀 I’m interested in software development 
-- 🌱 I’m currently learning bootstrap and JavaScript 
+- 🌱 I’m currently learning Reactjs. 
 - 📫 How to reach me @susannwagwu4@gmail.com
 
 <!---
